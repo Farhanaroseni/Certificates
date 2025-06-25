@@ -7,9 +7,9 @@ Here are some of the certifications I've completed to strengthen my data and ana
 * Data Manipulation - DataCamp
 
 ## Power BI
-Introduction to Power BI - DataCamp
-Data Visualization with Power BI - DataCamp
-Introduction to DAX in Power BI - DataCamp
+* Introduction to Power BI - DataCamp
+* Data Visualization with Power BI - DataCamp
+* Introduction to DAX in Power BI - DataCamp
 
 ## AI
-Explore AI Basics - Mereka Academy
+* Explore AI Basics - Mereka Academy
