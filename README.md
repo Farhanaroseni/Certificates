@@ -6,6 +6,9 @@ Here are some of the certifications I've completed to strengthen my data and ana
 * Intermediate Python - DataCamp
 * Data Manipulation - DataCamp
 
+## R
+* Data Analyst with R Track - DataCamp
+
 ## Power BI
 * Introduction to Power BI - DataCamp
 * Data Visualization with Power BI - DataCamp
